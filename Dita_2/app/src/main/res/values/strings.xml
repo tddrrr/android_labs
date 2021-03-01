@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dita_2</string>
+    <string name="name">Name</string>
+    <string name="add_age">Age</string>
+    <string name="add_faculty">Faculty</string>
+    <string name="add_save">Save</string>
+
+    <string-array name="add_faculty_values">
+        <item>CSIE</item>
+        <item>CIG</item>
+        <item>MRK</item>
+    </string-array>
+</resources>

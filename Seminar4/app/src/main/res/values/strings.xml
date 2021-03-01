@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar4</string>
+    <string name="hello_world"></string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_login">Login</string>
+    <string name="login_name">Login</string>
+    <string name="login_password">Password</string>
+
+</resources>

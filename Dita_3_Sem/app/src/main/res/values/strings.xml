@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Seminar 3</string>
+    <string name="add_name">Name</string>
+    <string name="add_age">Age</string>
+    <string name="add_faculty">Faculty</string>
+    <string name="add_save">Save</string>
+    <string name="add_enrollment_date">Enrollment Date. Accepted Format: dd/MM/yyyy</string>
+    <string name="add_mode_of_study">Mode of study</string>
+    <string name="add_full_time">Full-time</string>
+    <string name="add_distance">Distance</string>
+    <string name="add_invalid_name_error">Invalid Name. Min. 3 characters</string>
+    <string name="add_invalid_age_error">Invalid Age. Accepted interval [18,70)</string>
+    <string name="add_invalid_enrollment_date_error">Invalid Enrollment Date. Accepted format dd/MM/yyyy</string>
+    <string name="student_added_message">Studentul adaugat %1$s</string>
+
+    <string-array name="add_faculties">
+        <item>CSIE</item>
+        <item>CIG</item>
+        <item>MRK</item>
+    </string-array>
+</resources>

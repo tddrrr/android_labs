@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seminar_Tema</string>
+    <string name="btn_submit">Submit book</string>
+    <string name="nume">Add book name</string>
+    <string name="author">Add author of the book</string>
+    <string name="btn_alert">Show library data</string>
+</resources>

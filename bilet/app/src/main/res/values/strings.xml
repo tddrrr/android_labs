@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bilet_Ex</string>
+    <string name="model">Model</string>
+    <string name="marca">Marca</string>
+    <string name="carburant">Carburant</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="data">Data</string>
+    <string name="adauga_masina">Adauga masina</string>
+    <string name="normalizare_date">Normalizare date</string>
+    <string name="motorina">Motorina</string>
+    <string name="benzina">Benzina</string>
+    <string-array name="model">
+        <item>4x4</item>
+        <item>Sport</item>
+        <item>Family car</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

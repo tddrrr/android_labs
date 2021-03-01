@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice_2</string>
+    <string name="adauga_citat">Adauga citat</string>
+    <string name="sincronizare_retea">Sincronizare retea</string>
+    <string-array name="Categorie">
+        <item>Familie</item>
+        <item>Sport</item>
+        <item>Filozofie</item>
+        <item>Motivationale</item>
+    </string-array>
+</resources>

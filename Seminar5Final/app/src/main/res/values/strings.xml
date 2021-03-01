@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Seminar5Final</string>
+    <string name="nume">Nume</string>
+    <string name="prenume">Prenume</string>
+    <string name="email">Email</string>
+    <string name="btn_submit">Submit</string>
+    <string name="IF">IF</string>
+    <string name="ZI">ZI</string>
+
+    <array name="facultate">
+        <item>CSIE</item>
+        <item>Marketing</item>
+        <item>CIG</item>
+        <item>REI</item>
+
+
+    </array>
+</resources>

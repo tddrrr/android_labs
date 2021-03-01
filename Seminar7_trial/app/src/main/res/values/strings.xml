@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seminar7</string>
+    <string name="edit_string">Enter an item here</string>
+    <string name="additem">AddItem</string>
+</resources>

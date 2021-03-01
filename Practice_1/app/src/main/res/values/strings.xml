@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice_1</string>
+    <string name="adauga_rezervare">Adauga rezervare</string>
+    <string name="preluare_rezervari">Preluare rezervari</string>
+    <string name="salvare_bd">Salvare BD</string>
+    <string name="grafic">Grafic</string>
+    <string name="despre">Despre</string>
+    <string name="Teodora">Teodora</string>
+    <string name="id_curs">Id curs</string>
+    <string name="nume_client">Nume client</string>
+    <string name="tip_camera">Tip Camera</string>
+    <string name="durata_sejur">Durata</string>
+    <string name="suma_plata">Suma plata</string>
+    <string name="data_cazare">Data cazare</string>
+    <string name="salveaza">Salveaza</string>
+    <string name="renunta">Renunta</string>
+    <string name="get_from_db">Get from DB</string>
+</resources>
